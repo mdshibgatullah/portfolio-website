@@ -8,7 +8,7 @@ const Hero = () => {
         <section className='hero' id='home'>
            <div className="hero-details">
             <h1>Md. Shibgatullah Sifat</h1>
-            <h2>I'm <span>Full Stack Web Developer</span></h2>
+            <h2>I'm a <span>Web Developer</span></h2>
             <p>A motivated Full Stack Web Developer with strong knowledge of HTML, CSS, JavaScript, React.js, PHP, and Laravel. Passionate about building responsive, user-friendly web applications and continuously learning new technologies.</p>
             <div className="btn-sci">
                 <a href="#contact" className='btn'>Contact Me</a>
